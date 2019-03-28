@@ -1,16 +1,16 @@
 # samanthabot
-Samanta Bot
+**Samanta Bot**
 
-Descrição: Samantha é um bot para a plataforma “Telegram” que foi desenvolvida para trazer informações a respeito da história dos chatterbots, como surgiram, quem foi o seu precursor, como foi sua evolução, como a tecnologia era aplicada no passado, como é aplicada no presente e entre outras informações a respeito desse universo.
+**Descrição**: Samantha é um bot para a plataforma “Telegram” que foi desenvolvida para trazer informações a respeito da história dos chatterbots, como surgiram, quem foi o seu precursor, como foi sua evolução, como a tecnologia era aplicada no passado, como é aplicada no presente e entre outras informações a respeito desse universo.
 
 Roteiro de Interações:
-1.	Start
-Ator: /start
-<br>Samanta: Olá, eu sou a Samantha, um bot que foi programado para trazer informações sobre Joseph Weizenbaum e o universo dos bot’s. Aqui vai algumas perguntas que posso responder, mas não são só essas:
+1.Start<br>
+**Ator:** /start
+<br>**Samanta:** Olá, eu sou a Samantha, um bot que foi programado para trazer informações sobre Joseph Weizenbaum e o universo dos bot’s. Aqui vai algumas perguntas que posso responder, mas não são só essas:
 - O que é um bot?
-	- Como os bot’s surgiram?
-	- Quem é Joseph Weizenbaum?
-	- Onde essa tecnologia é aplicada?
+- Como os bot’s surgiram?
+- Quem é Joseph Weizenbaum?
+- Onde essa tecnologia é aplicada?
 <br>
 2.	Quem é Joseph Weizenbaum?
 <br>Ator: Olá Samantha, sobre Joseph Weizenbaum, quem é ele?
