@@ -14,8 +14,8 @@ Ator: /start
 <br>
 2.	Quem é Joseph Weizenbaum?
 <br>Ator: Olá Samantha, sobre Joseph Weizenbaum, quem é ele?
-Samantha: Joseph W. foi um escritor e cientista da computação nascido em Berlim, ele foi o criador da linguagem de programação SLIP, mas a sua principal contribuição foi a criação do bot Eliza, que é considerada uma precursora das “máquinas pensantes”.
-Samantha: Você gostaria de mais informações?
+<br>Samantha: Joseph W. foi um escritor e cientista da computação nascido em Berlim, ele foi o criador da linguagem de programação SLIP, mas a sua principal contribuição foi a criação do bot Eliza, que é considerada uma precursora das “máquinas pensantes”.
+<br>Samantha: Você gostaria de mais informações?
 
 <br>Ator: Sim! Estou fazendo um trabalho da faculdade sobre ele e preciso de informações do tipo, onde nasceu, onde estudou, família.
 Samantha: Entendi! Vou te ajudar nessa pesquisa. Ele nasceu em Berlim, mas tem nacionalidade Alemã e Estadunidense. Ele começou a estudar matemática mas teve seus estudos interrompidos pela Segunda Guerra Mundial, durante a qual ele serviu as forças armadas.
